@@ -286,7 +286,7 @@ function create_config( )
     "pmLoad"
 
     },
-    sudo_users = {218722292,219009358,192727254,0,tonumber(our_id)},--Sudo users
+    sudo_users = {212295971,219009358,192727254,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
@@ -431,7 +431,7 @@ other commands :
 *Only owner can use res,setowner,promote,demote and log commands
 ]],
 	help_text_super =[[
-دستورات سوپر گروه ربات اسمارت:
+🚀دستورات سوپر گروه :
 info
 🌟نشان دادن مشخصات شما
 *درصورت ریپلای مشخصات فرد را نشان میدهد
