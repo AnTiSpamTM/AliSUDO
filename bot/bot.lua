@@ -286,7 +286,7 @@ function create_config( )
     "stats"
 
     },
-    sudo_users = {212295971,219009358,192727254,0,tonumber(our_id)},--Sudo users
+    sudo_users = {212295971,224591536,221981532,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
