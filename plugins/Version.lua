@@ -2,25 +2,16 @@
 do
 
 function run(msg, matches)
-  return [[ 
-⚡️اسمارت⚡️ ورژن:7.1 برنامه ریزی شده برپایه سید
-
-مدل پردازنده:Intel Core i7
-تعداد هسته:16هسته
-رم:14گیگ رم
-مقدار فضا:60گیگ هارد SSD
-
-کانال تیم: @SmartTG_CH
-کانال دوم: @antispam_TG1
-مدیریت اصلی: @Us_Mm
- کانفیگور و کدنویس: @vVv_ErPo_vVv
-قدرت برگرفته از:
- #SmartTG
- 
-تشکر ویژه از:
-Mehdi
-Erfan
- و سایرافراد...]]
+  return [[ avatar_tg team ver1.1
+مشخصات server
+مموری رم 8گیگ
+cpu 12
+سازنده تیم 
+@Ali_dev_avatar_TG
+ادمین ها
+@Silent_75
+@avatar_sudo
+]]
 end
 
 return {
@@ -29,13 +20,13 @@ return {
   patterns = {
     "^[Vv]er$",
     "^[Vv]ersion$",
-    "^!smart$",
-    "^%smart$",
-    "^$smart$",
-   "^#Smart$",
-   "^#Smart$",
-   "^/smart$",
-   "^#smart$",
+    "^!avatar$",
+    "^%avatar$",
+    "^$avatar$",
+   "^#avatar$",
+   "^#avatar$",
+   "^/avatar$",
+   "^#avatar$",
   }, 
   run = run 
 }
