@@ -2,19 +2,17 @@ do
 
 function run(msg, matches)
   return [[
-#سودو های اسمارت!
-  
-  1.@Us_Mm🌐 #سودو و مدیریت
-  
-  2.@vVv_ERPO_vVv🌐 #توسعه دهنده و کانفیگور
-
+سودو های اواتار ™
+@Ali_dev_avatar_TG
+@avatar_sudo
+@Silent_75
 ]]
 end
 return {
   description = " ", 
   usage = " ",
   patterns = {
-    "^sudoers$",
+    "^sudolist$",
 
   },
   run = run
