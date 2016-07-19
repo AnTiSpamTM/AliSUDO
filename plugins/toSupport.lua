@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return " لینک دعوت گروه ساپورت اسمارت : \n https://telegram.me/joinchat/CyZ5Jz52Mgcm0O79prc8fg\n-------------------------------------\nChannel: @SmartTG_CH"
+  return " لینک دعوت گروه ساپورت اواتار: \nhttps://telegram.me/joinchat/DKdhIz-XHa8u08f3ZZrZTA \n-------------------------------------\nChannel: @AVATAR_TG_TG"
   end
 return {
   description = "shows support link", 
